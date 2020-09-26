@@ -9,4 +9,6 @@ A simple web server security dashboard written in PHP. Intended for use on a LAM
 4. Write down the CentOS and Kali login info in a password manager
 5. On the Kali VM, run `sudo apt-get update; sudo apt-get upgrade`
 
+## Update
 
+Project is on hold as I work on other things.
